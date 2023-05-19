@@ -3,9 +3,9 @@ In this project I have written a program to connect the database with java and d
 
 Required softwares:
 
-Eclipse IDE,
+Eclipse IDE
 
-MYSql,
+MYSql
 
 Sql jar files
 
